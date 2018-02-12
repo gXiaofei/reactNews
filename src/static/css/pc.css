@@ -1,0 +1,27 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 48px;
+    height: 48px;
+}
+
+.logo span {
+    font-size: 24px;
+    margin-left: 5px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.register {
+    float: right !important;
+}
+
+.register button,
+.register a{
+    display: inline-block !important;
+}
